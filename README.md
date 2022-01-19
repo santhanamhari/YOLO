@@ -1,6 +1,6 @@
 # YOLO
 
-We implement YOLO, a state of the art real-time object detection system. The goal is to regress the bounding boxes and class probabilities with a single network. 
+We implement YOLO, a state of the art real-time object detection system. The goal is to regress the bounding boxes and class probabilities with a single network. The ground truths are defined based on grid cells that split up the image. Each ground truth is assigned to each bounding box with the channels defined as: P(objectness), x, y, w, h, and class probabilities (pedestrian, traffic light, car). 
 
 ## Model Architecture
 
