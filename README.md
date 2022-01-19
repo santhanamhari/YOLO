@@ -1,6 +1,7 @@
 # YOLO
 
-We implement YOLO, a state of the art real-time object detection system. 
+We implement YOLO, a state of the art real-time object detection system. The goal is to regress the bounding boxes and class probabilities with a single network. 
 
 ## Model Architecture
 
+<img width="906" alt="Screen Shot 2022-01-19 at 2 22 54 AM" src="https://user-images.githubusercontent.com/40223805/150083533-30bc5120-e836-4f54-8fb2-5c5f6324d6c7.png">
