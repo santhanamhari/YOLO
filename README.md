@@ -20,5 +20,4 @@ We implement YOLO, a state of the art real-time object detection system. The goa
 
 
 
-<img width="175" alt="Screen Shot 2022-01-19 at 2 34 12 AM" src="https://user-images.githubusercontent.com/40223805/150084970-9d795241-c3f4-4781-b04a-09dc7130f32f.png">
-<img width="181" alt="Screen Shot 2022-01-19 at 2 34 17 AM" src="https://user-images.githubusercontent.com/40223805/150084973-b23e528b-3d73-485a-a3e3-334548f78fc5.png">
+<img width="175" alt="Screen Shot 2022-01-19 at 2 34 12 AM" src="https://user-images.githubusercontent.com/40223805/150084970-9d795241-c3f4-4781-b04a-09dc7130f32f.png"> <img width="181" alt="Screen Shot 2022-01-19 at 2 34 17 AM" src="https://user-images.githubusercontent.com/40223805/150084973-b23e528b-3d73-485a-a3e3-334548f78fc5.png">
