@@ -13,4 +13,4 @@ We implement YOLO, a state of the art real-time object detection system. The goa
 ## Training Details
 
 
-<img width="583" alt="Screen Shot 2022-01-19 at 2 25 10 AM" src="https://user-images.githubusercontent.com/40223805/150083878-24439928-22fc-44c5-983a-281799d12e0e.png">
+<img width="747" alt="Screen Shot 2022-01-19 at 2 26 56 AM" src="https://user-images.githubusercontent.com/40223805/150083939-9c357d12-b54b-4731-a245-15141a04e649.png">
